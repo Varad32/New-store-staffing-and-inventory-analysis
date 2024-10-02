@@ -1,1 +1,1 @@
-# New-store-staffing-and-inventory-analysis
+# New store staffing and inventory analysis
